@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Birtas Adrian
 - 👀 I’m interested in Quality Assurance Software Testing
-- 💞️ I’m looking to collaborate on opportunities in QA Software Testing
+- 💞️ I’m looking to collaborate on QA Software Testing opportunities.
 
 I'm an ambitious person who loves to evolve by learning new things with patience and optimism. I always love to search for new things in order to develop a better version of me.
 I’m familiar with tools like Jira, Taiga, TestLink, Postman, WebdriverIO, phpMyAdmin and MySQL Workbench. 
