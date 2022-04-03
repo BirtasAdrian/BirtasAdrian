@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BirtasAdrian
+- 👋 Hi, I’m Birtas Adrian
 - 👀 I’m interested in Quality Assurance Software Testing
 - 💞️ I’m looking to collaborate on opportunities in QA Software Testing
 
