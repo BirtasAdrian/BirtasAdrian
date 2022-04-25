@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Birtas Adrian
 - 👀 I’m interested in Quality Assurance Software Testing
 - 💞️ I’m looking to collaborate on QA Software Testing opportunities.
+- Curently I'm learning Automation testing with Cypress and JS.
 
 
 I'm an ambitious person who loves to evolve by learning new things with patience and optimism. I always love to search for new things in order to develop a better version of me.
