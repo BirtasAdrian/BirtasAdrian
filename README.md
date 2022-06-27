@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Birtas Adrian
 - 👀 I’m interested in Quality Assurance Software Testing
 - 💞️ I’m looking to collaborate on QA Software Testing opportunities.
-- Currently I'm learning Automation testing with Cypress and JS.
- 
+- Currently I'm learning Manual Testing from Ctrl+n by Bittnet training. Link course: https://www.ctrln.ro/cursuri/software/software-tester-qa-manual-curs-it/
+
 
 I'm an ambitious person who loves to evolve by learning new things with patience and optimism. I always love to search for new things in order to develop a better version of me.
 I’m familiar with tools like Jira, Taiga, TestLink, TestRail, Postman, WebdriverIO, Cypress, phpMyAdmin and MySQL Workbench. 
