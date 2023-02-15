@@ -9,7 +9,11 @@ I’m familiar with tools like Jira, Taiga, TestLink, TestRail, Postman, Webdriv
 Also, I attend Manual Testing and Automation Testing webinars organized by the company IT Factory where I ask questions in order to understand new things and aspects that I learned from the Udemy platform. 
 My Github portofolio is constantly improved by the new and diverse aspects that keep my mind updated and wired.
 
-My LinkedIn profile: https://www.linkedin.com/in/adrian-birta%C5%9F-a09956217/
+The last project made at SkillBrain It School : https://docs.google.com/spreadsheets/d/1rVjStzjgpU6kOV3bA2l4arYsxu1RaPwk/edit?usp=sharing&ouid=108105698328216370447&rtpof=true&sd=true
+
+This project contain: Checklists, Test Cases, Bugs, Improvements for 2 sections of OrangeHRM website. 
+https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+
 
 <!---
 BirtasAdrian/BirtasAdrian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
