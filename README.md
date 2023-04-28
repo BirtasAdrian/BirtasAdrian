@@ -18,7 +18,7 @@ OrangeHRM website:
 https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
 
 
-[Java-For-Beginners-Solved-Exercises ](/BirtasAdrian/Java-For-Beginners-Solved-Exercises)
+[Java For Beginners Solved Exercises ](/https://github.com/BirtasAdrian/Java-For-Beginners-Solved-Exercises)
 
 
 <!---
