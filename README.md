@@ -18,6 +18,8 @@ OrangeHRM website:
 https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
 
 
+This link contain the theory and +151 solved exercises Java with requirments for beginners.
+
 [Java For Beginners Solved Exercises ](https://github.com/BirtasAdrian/Java-For-Beginners-Solved-Exercises)
 
 
