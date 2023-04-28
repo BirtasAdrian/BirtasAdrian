@@ -6,7 +6,7 @@
 
 As a passionate and ambitious individual, I am constantly seeking ways to improve myself and acquire new knowledge with patience and optimism. I am proficient in using various tools such as Jira, Taiga, TestLink, TestRail, Postman, WebdriverIO, Cypress, phpMyAdmin, and MySQL Workbench.
 
-I also attend webinars on Manual and Automation Testing organized by the IT Factory, where I ask questions to gain a better understanding of new concepts and ideas. My GitHub portfolio reflects my continued efforts to stay updated with the latest developments in the field.
+I also attend webinars on Manual and Automation Testing, where I ask questions to gain a better understanding of new concepts and ideas. My GitHub portfolio reflects my continued efforts to stay updated with the latest developments in the field.
 
 In my most recent project, which I completed while studying at SkillBrain It School, I created checklists, test cases, bug reports and suggested improvements for two sections of the OrangeHRM website. 
 
