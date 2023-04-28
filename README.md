@@ -18,7 +18,7 @@ OrangeHRM website:
 https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
 
 
-The following link contain the theory and +151 solved exercises Java with requirments for beginners that I learned and did at Academia Programatorilor. This covers the basics of the Java language.
+The following link contain the theory and +151 solved Java exercises with requirments for beginners that I learned and did at Academia Programatorilor. This covers the basics of the Java language.
 
 [Java For Beginners Solved Exercises ](https://github.com/BirtasAdrian/Java-For-Beginners-Solved-Exercises)
 
