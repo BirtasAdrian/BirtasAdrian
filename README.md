@@ -10,6 +10,7 @@ As a passionate and ambitious individual, I am constantly seeking ways to improv
 I also attend webinars on Manual and Automation Testing, where I ask questions to gain a better understanding of new concepts and ideas. My GitHub portfolio reflects my continued efforts to stay updated with the latest developments in the field.
 
 ***Recent Projects:***
+
 In my most recent project, which I completed while studying at ItFactory, I created and completed a test plan for a live application. Please click on the link below to see it.
 
 [Manual Testing ItFactory Project ](https://github.com/BirtasAdrian/Manual-Testing-Project-IT-Factory)
