@@ -14,6 +14,7 @@ I also attend webinars on Manual and Automation Testing, where I ask questions t
 In my most recent project, which I completed while studying at ItFactory, I created and completed a test plan for a live application. Please click on the link below to see it.
 
 [Manual Testing ItFactory Project ](https://github.com/BirtasAdrian/Manual-Testing-Project-IT-Factory)
+
 In the following project I completed while studying at SkillBrain It School, I created checklists, test cases, bug reports and suggested improvements for two sections of the OrangeHRM website. 
 
 You can view the project here: https://docs.google.com/spreadsheets/d/1rVjStzjgpU6kOV3bA2l4arYsxu1RaPwk/edit?usp=sharing&ouid=108105698328216370447&rtpof=true&sd=true
