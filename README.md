@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Birtas Adrian
 - 👀 I’m interested in Quality Assurance Software Testing
-- 💞️ I’m looking to collaborate on QA Software Testing opportunities.
+- I’m looking to collaborate on QA Software Testing opportunities.
 - Currently, I am enhancing my skills in Manual Testing through the Ctrl+n course recorded by Bittnet Training. You can find the course link here: https://www.ctrln.ro/cursuri/software/software-tester-qa-manual-curs-it/
 - Also I'm currently enrolled in the ITFactory live course focused on Manual and Automated Testing.
 
