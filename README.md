@@ -15,6 +15,10 @@ In my most recent project, which I completed while studying at IT Factory, I cre
 
 [IT Factory Manual Testing Project](https://github.com/BirtasAdrian/Manual-Testing-Project-IT-Factory)
 
+A project where I tested an API and wrote Java Script tests for each HTTP request 
+
+[IT Factory API Testing Project](https://github.com/BirtasAdrian/Testare-Manuala-Proiect-Final-Acreditare)
+
 In the following project I completed while studying at SkillBrain It School, I created checklists, test cases, bug reports and suggested improvements for two sections of the OrangeHRM website. 
 
 You can view the project here: https://docs.google.com/spreadsheets/d/1rVjStzjgpU6kOV3bA2l4arYsxu1RaPwk/edit?usp=sharing&ouid=108105698328216370447&rtpof=true&sd=true
