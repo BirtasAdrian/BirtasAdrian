@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Birtas Adrian
-- 👀 I’m interested in Quality Assurance Software Testing
-- I’m looking to collaborate on QA Software Testing opportunities.
-- Currently, I am enhancing my skills in Manual Testing through the Ctrl+n course recorded by Bittnet Training. You can find the course link here: https://www.ctrln.ro/cursuri/software/software-tester-qa-manual-curs-it/
-- Also I'm currently enrolled in the ITFactory live course focused on Manual and Automated Testing.
+- 👀 I’m interested in Quality Assurance Software Testing, programming, and Databases. 
+- I’m looking to collaborate on QA Software Testing or similar opportunities.
+- Currently, I am enhancing my skills in Java Object Oriented Programming through the Academia Programatorilor course. You can find the course link here: https://www.academiaprogramatorilor.ro/courses/modul-java-oop
+- Also I'm currently enrolled in the ITFactory platform focused on Manual and Automated Testing.
 
 
 As a passionate and ambitious individual, I am constantly seeking ways to improve myself and acquire new knowledge with patience and optimism. I am proficient in using various tools such as Jira, Taiga, TestLink, TestRail, Postman, WebdriverIO, Cypress, phpMyAdmin, and MySQL Workbench.
