@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Birtas Adrian
-- 👀 I’m interested in Quality Assurance Software Testing, programming, and Databases. 
+- 👀 I’m interested in Quality Assurance Software Testing, Programming, and Databases. 
 - I’m looking to collaborate on QA Software Testing or similar opportunities.
 - Currently, I am enhancing my skills in Java Object Oriented Programming through the Academia Programatorilor course. You can find the course link here: https://www.academiaprogramatorilor.ro/courses/modul-java-oop
 - Also I'm currently enrolled in the ITFactory platform focused on Manual and Automated Testing.
